@@ -22,4 +22,5 @@ ALGORITHM:
       9.5)Print the updated snake positions and length
       9.6)Set the speed for the snake
 10.Quit the game
-         
+![image](https://user-images.githubusercontent.com/79081928/159072382-eab8d9fe-f0fb-4980-bf4b-17e76ba0163b.png)
+  
