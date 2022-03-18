@@ -21,6 +21,9 @@ ALGORITHM:
       9.4)Display food blocks
       9.5)Print the updated snake positions and length
       9.6)Set the speed for the snake
+
+
+
 10.Quit the game
 
 
@@ -30,6 +33,11 @@ ALGORITHM:
 
 
 
-The game will look in this way rectangle represents the snake you can change the shape of snake.
+The game will look in this way ,rectangle represents the snake you can change the shape of snake.
 ![image](https://user-images.githubusercontent.com/79081928/159072382-eab8d9fe-f0fb-4980-bf4b-17e76ba0163b.png)
   
+
+
+
+If you lost then it will display in this way:
+![image](https://user-images.githubusercontent.com/79081928/159072822-048975c8-93f7-4983-9966-ae961a54eda0.png)
