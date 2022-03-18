@@ -21,5 +21,5 @@ ALGORITHM:
       9.4)Display food blocks
       9.5)Print the updated snake positions and length
       9.6)Set the speed for the snake
-      10.Quit the game
+10.Quit the game
          
